@@ -24,7 +24,7 @@
   - July (`mnth_jul`)
   - Winter season (`season_winter`)
   - September (`mnth_sept`)
-  - Sunday (`weekday_sun`)
+  - Holiday (`weekday_sun`)
   - Good weather situation (`weathersit_good`)
   - Moderate weather situation (`weathersit_moderate`)
   - Temperature (`temp`)
